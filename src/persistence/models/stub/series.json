@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "id": "tt9140560",
+        "type": "series",
+        "name": "WandaVision",
+        "genres": ["Ação", "Comédia", "Drama"],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjJiZmE5ZDgtYWUxZi00MWI1LTg2MmEtZmUwZGE2YzRkNTE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "background": "https://m.media-amazon.com/images/M/MV5BYjJiZmE5ZDgtYWUxZi00MWI1LTg2MmEtZmUwZGE2YzRkNTE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "logo": "",
+        "description": "Wanda Maximoff e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+        "releaseInfo": "2021",
+        "imdbRating": 8.1,
+        "runtime": "5 h 50 min",
+        "catalogs": ["BrazilianCatalog"]
+    },
+    "magnets": [{
+        "seeders": 131,
+        "episode": 1,
+        "season": 1,
+        "fileIdx": 1,
+        "size": 11424613007,
+        "title": "1080p",
+        "magnet": "magnet:?xt=urn:btih:82360b56a95e06ff5312dde5aa7be7ecb417b466"
+    }]
+}
